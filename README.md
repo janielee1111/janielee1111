@@ -36,6 +36,10 @@ I care about building software that is reliable and easy to maintain. I'm also i
 - Distributed systems and scalability
 - Engineering practices, automation and CI/CD
 
+### 💡 Engineering Philosophy
+
+I believe good engineering starts with understanding the problem. I value strong fundamentals, maintainable solutions and pragmatic engineering decisions over unnecessary complexity.
+
 ### 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/janielee-dev](https://linkedin.com/in/janielee-dev)
